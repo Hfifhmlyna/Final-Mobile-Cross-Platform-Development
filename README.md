@@ -7,11 +7,10 @@ A
 |---|---|
 | **Kelompok** | 9 |
 | **Kelas** | 6B RPL |
-| **Mata Kuliah** | Advanced Software Testing and Quality Assurance (ASTQA) |
-| **Objek Pengujian** | Web Sekolah Terintegrasi (Proyek MID Scalable System Design) |
-| **GitHub Objek Uji** | https://github.com/Hfifhmlyna/Sikades.git |
-| **Demo YouTube** | https://youtu.be/0qOanscUiFI |
-| **Demo Instagram Reels** | https://www.instagram.com/reel/Db3SkEMzona/?igsh=MWI5b2NscHVtd2h3dw== |
+| **Mata Kuliah** | Mobile Cross-Platform Development |
+| **Objek Pengujian** | Web Sekolah |
+| **GitHub Objek Uji** | https://github.com/Hfifhmlyna/Final-Mobile-Cross-Platform-Development.git |
+| **Demo Drive** | https://drive.google.com/drive/folders/1PWxxf9ZPbLpZnkZZQKcfdQa9Wa962cK3?usp=sharing |
 
 ### Anggota Kelompok
 
