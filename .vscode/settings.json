@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.dart": "dart"
+  },
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.rulers": [80]
+  }
+}
