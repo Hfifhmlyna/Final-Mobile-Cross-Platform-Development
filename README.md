@@ -2,6 +2,7 @@
 ## Identitas Kelompok
 
 | | |
+|---|---|
 | **Kelompok** | 9 |
 | **Kelas** | 6B RPL |
 | **Mata Kuliah** | Mobile Cross-Platform Development |
