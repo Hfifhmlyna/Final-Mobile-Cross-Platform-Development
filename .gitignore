@@ -35,7 +35,6 @@ GoogleService-Info.plist
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
-.flutter-plugins-dependencies
 .pub-cache/
 .pub/
 /build/
@@ -57,3 +56,4 @@ app.*.map.json
 
 # Firebase deploy logs
 deploy_*.log
+build_errors.txt
