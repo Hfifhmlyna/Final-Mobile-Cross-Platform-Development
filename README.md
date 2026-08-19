@@ -8,8 +8,8 @@
 | **Mata Kuliah** | Mobile Cross-Platform Development |
 | **Objek Pengujian** | Web Sekolah |
 | **GitHub Objek Uji** | https://github.com/Hfifhmlyna/Final-Mobile-Cross-Platform-Development.git |
+| **web** | https://edutech-smk-app.web.app/ |
 | **Demo Drive** | https://drive.google.com/drive/folders/1PWxxf9ZPbLpZnkZZQKcfdQa9Wa962cK3?usp=sharing |
-
 ### Anggota Kelompok
 
 | No | NIM | Nama | Peran |
