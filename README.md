@@ -1,6 +1,4 @@
 # edutech_smk
-
-A
 ## Identitas Kelompok
 
 | | |
